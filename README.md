@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://media1.tenor.com/m/c7PoIfV9w1kAAAAd/hoshinoruby-oshi-no-ko.gif"/>
 <!--
 **apotixne/apotixne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
